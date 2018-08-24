@@ -1,0 +1,1 @@
+../../../../../../../../../.pub-cache/hosted/pub.flutter-io.cn/device_info-0.2.0/ios/Classes/DeviceInfoPlugin.h

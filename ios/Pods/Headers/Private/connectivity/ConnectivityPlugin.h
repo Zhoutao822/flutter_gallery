@@ -1,0 +1,1 @@
+../../../../../../../../../.pub-cache/hosted/pub.flutter-io.cn/connectivity-0.3.0/ios/Classes/ConnectivityPlugin.h
